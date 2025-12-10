@@ -1,0 +1,19 @@
+# venv
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# База для разработки
+dev.db
+
+# env-файлы
+.env
+*.env
+config_local.py
